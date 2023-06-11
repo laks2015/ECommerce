@@ -1,0 +1,12 @@
+D:\Udemy\Interview\CustomerAPI\Ecommerce.DTO\bin\Debug\net6.0\Ecommerce.DTO.deps.json
+D:\Udemy\Interview\CustomerAPI\Ecommerce.DTO\bin\Debug\net6.0\Ecommerce.DTO.dll
+D:\Udemy\Interview\CustomerAPI\Ecommerce.DTO\bin\Debug\net6.0\Ecommerce.DTO.pdb
+D:\Udemy\Interview\CustomerAPI\Ecommerce.DTO\obj\Debug\net6.0\Ecommerce.DTO.csproj.AssemblyReference.cache
+D:\Udemy\Interview\CustomerAPI\Ecommerce.DTO\obj\Debug\net6.0\Ecommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Interview\CustomerAPI\Ecommerce.DTO\obj\Debug\net6.0\Ecommerce.DTO.AssemblyInfoInputs.cache
+D:\Udemy\Interview\CustomerAPI\Ecommerce.DTO\obj\Debug\net6.0\Ecommerce.DTO.AssemblyInfo.cs
+D:\Udemy\Interview\CustomerAPI\Ecommerce.DTO\obj\Debug\net6.0\Ecommerce.DTO.csproj.CoreCompileInputs.cache
+D:\Udemy\Interview\CustomerAPI\Ecommerce.DTO\obj\Debug\net6.0\Ecommerce.DTO.dll
+D:\Udemy\Interview\CustomerAPI\Ecommerce.DTO\obj\Debug\net6.0\refint\Ecommerce.DTO.dll
+D:\Udemy\Interview\CustomerAPI\Ecommerce.DTO\obj\Debug\net6.0\Ecommerce.DTO.pdb
+D:\Udemy\Interview\CustomerAPI\Ecommerce.DTO\obj\Debug\net6.0\ref\Ecommerce.DTO.dll

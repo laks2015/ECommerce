@@ -1,0 +1,10 @@
+D:\Udemy\Interview\CustomerAPI\Customer\bin\Debug\Customer.dacpac
+D:\Udemy\Interview\CustomerAPI\Customer\bin\Debug\Customer.dll
+D:\Udemy\Interview\CustomerAPI\Customer\bin\Debug\Customer.pdb
+D:\Udemy\Interview\CustomerAPI\Customer\obj\Debug\Customer.sqlproj.AssemblyReference.cache
+D:\Udemy\Interview\CustomerAPI\Customer\obj\Debug\Model.xml
+D:\Udemy\Interview\CustomerAPI\Customer\obj\Debug\refactor.xml
+D:\Udemy\Interview\CustomerAPI\Customer\obj\Debug\postdeploy.sql
+D:\Udemy\Interview\CustomerAPI\Customer\obj\Debug\predeploy.sql
+D:\Udemy\Interview\CustomerAPI\Customer\obj\Debug\Customer.dll
+D:\Udemy\Interview\CustomerAPI\Customer\obj\Debug\Customer.pdb

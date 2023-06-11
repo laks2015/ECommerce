@@ -1,0 +1,10 @@
+2023-06-09 11:52:32.9863 Info Message Template Auto Format enabled
+2023-06-09 11:52:33.2414 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-06-09 11:52:33.2414 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=AllAsyncWrapper)
+2023-06-09 11:52:33.3494 Info Validating config: TargetNames=AllAsyncWrapper, ConfigItems=33, FilePath=D:\Udemy\Interview\EcommerceAPI\EcommerceAPI\bin\Debug\net7.0\NLog.config
+2023-06-09 11:52:34.5867 Info Validating config: TargetNames=AllAsyncWrapper, ConfigItems=33, FilePath=D:\Udemy\Interview\EcommerceAPI\EcommerceAPI\bin\Debug\net7.0\NLog.config
+2023-06-09 11:55:25.2793 Info Message Template Auto Format enabled
+2023-06-09 11:55:25.7297 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-06-09 11:55:25.7653 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=AllAsyncWrapper)
+2023-06-09 11:55:26.1343 Info Validating config: TargetNames=AllAsyncWrapper, ConfigItems=33, FilePath=D:\Udemy\Interview\EcommerceAPI\EcommerceAPI\bin\Debug\net7.0\NLog.config
+2023-06-09 11:55:27.8624 Info Validating config: TargetNames=AllAsyncWrapper, ConfigItems=33, FilePath=D:\Udemy\Interview\EcommerceAPI\EcommerceAPI\bin\Debug\net7.0\NLog.config

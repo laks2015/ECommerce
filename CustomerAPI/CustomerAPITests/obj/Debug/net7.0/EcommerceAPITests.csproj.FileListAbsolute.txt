@@ -1,0 +1,5 @@
+D:\Udemy\Interview\CustomerAPI\CustomerAPITests\obj\Debug\net7.0\EcommerceAPITests.csproj.AssemblyReference.cache
+D:\Udemy\Interview\CustomerAPI\CustomerAPITests\obj\Debug\net7.0\EcommerceAPITests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Interview\CustomerAPI\CustomerAPITests\obj\Debug\net7.0\EcommerceAPITests.AssemblyInfoInputs.cache
+D:\Udemy\Interview\CustomerAPI\CustomerAPITests\obj\Debug\net7.0\EcommerceAPITests.AssemblyInfo.cs
+D:\Udemy\Interview\CustomerAPI\CustomerAPITests\obj\Debug\net7.0\EcommerceAPITests.csproj.CoreCompileInputs.cache
